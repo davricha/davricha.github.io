@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "David Richard / website"
 title_separator          : "-"
 name                     : &name "David Richard"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://davricha.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "davricha/davricha.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "David Richard"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : #"Computational physicist"
+  location         : "https://www.google.com/maps/place/LiPhy+(Laboratoire+Interdisciplinaire+de+Physique)/@45.1931243,5.7633368,15z/data=!4m2!3m1!1s0x0:0x23f92ebb7f6f3d0d?sa=X&ved=2ahUKEwjUleXv35j_AhVf7rsIHT5eA6wQ_BJ6BAhMEAg"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "hhttps://scholar.google.com/citations?user=jEhfz8kAAAAJ&hl=fr&oi=ao"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=jEhfz8kAAAAJ&hl=fr&oi=ao"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
