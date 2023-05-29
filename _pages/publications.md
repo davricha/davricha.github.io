@@ -19,4 +19,4 @@ And below is a list of papers:
 
 __Predicting plasticity in disordered solids from structural indicators__  
 D. Richard, M. Ozawa, S. Patinet, E. Stanifer, B. Shang, S. A. Ridout, B. Xu, G. Zhang, P. K. Morse, J.-L. Barrat, L. Berthier, M. L. Falk, P. Guan, A. J. Liu, K. Martens, S. Sastry, D. Vandembroucq, E. Lerner, and M. L. Manning
-Phys. Rev. Materials __4__, August 2020, [https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.4.113609](https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.4.113609)  
+Phys. Rev. Materials __4__, 2020, [https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.4.113609](https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.4.113609)  
