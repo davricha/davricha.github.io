@@ -8,9 +8,45 @@ author_profile: true
 Here is a link to my [Google Scholar profile](https://scholar.google.com/citations?user=jEhfz8kAAAAJ&hl=fr&oi=ao)
 
 
+__[21] tba__  
+
+__[20] tba__  
+
+__[19] tba__  
+
+__[18] tba__  
+
+__[17] tba__  
+
+__[16] tba__  
+
+__[15] tba__ 
+
+__[14] tba__  
+
+__[13] tba__  
+
 __[12] Predicting plasticity in disordered solids from structural indicators__  
 D. Richard, M. Ozawa, S. Patinet, E. Stanifer, B. Shang, S. A. Ridout, B. Xu, G. Zhang, P. K. Morse, J.-L. Barrat, L. Berthier, M. L. Falk, P. Guan, A. J. Liu, K. Martens, S. Sastry, D. Vandembroucq, E. Lerner, and M. L. Manning,
 Phys. Rev. Materials __4__, 2020, [https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.4.113609](https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.4.113609) 
+
+__[11] tba__  
+
+__[10] tba__  
+
+__[9] tba__  
+
+__[8] tba__ 
+
+__[7] tba__ 
+
+__[6] tba__ 
+
+__[5] tba__
+
+__[4] tba__  
+
+__[3] tba__  
 
 __[2] Nucleation pathway and kinetics of phase-separating active Brownian particles__  
 D. Richard, H. Löwen, and T. Speck,
