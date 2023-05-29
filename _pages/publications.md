@@ -19,3 +19,6 @@ Soft Matter __12__, 2016, [https://pubs.rsc.org/en/content/articlehtml/2016/sm/c
 __[1] The role of shear in crystallization kinetics: From suppression to enhancement__  
 D. Richard and T. Speck,
 Scientific reports __5__, 2015, [https://link.springer.com/content/pdf/10.1038/srep14610.pdf](https://link.springer.com/content/pdf/10.1038/srep14610.pdf)  
+
+
+1<br/><img src='/images/cover_soft_matter_gel.png'>
