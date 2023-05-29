@@ -21,4 +21,3 @@ D. Richard and T. Speck,
 Scientific reports __5__, 2015, [https://link.springer.com/content/pdf/10.1038/srep14610.pdf](https://link.springer.com/content/pdf/10.1038/srep14610.pdf)  
 
 
-<br/><img src='/images/cover_soft_matter_gel.png'>
