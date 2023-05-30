@@ -44,7 +44,7 @@ __[11] Universality of the nonphononic vibrational spectrum across different cla
 __[10] Nonlinear quasilocalized excitations in glasses: True representatives of soft spots__<br/>
 G. Kapteijns, **D. Richard**, and E. Lerner, Physical Review E __101__, 2020
 
-__[9] Classical nucleation theory for the crystallization kinetics in sheared liquids__<br/>  
+__[9] Classical nucleation theory for the crystallization kinetics in sheared liquids__<br/>
 **D. Richard** and T. Speck, Physical Review E __99__, 2019
 
 __[8] Communication: Is directed percolation in colloid-polymer mixtures linked to dynamic arrest?__<br/>
