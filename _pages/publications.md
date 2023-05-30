@@ -91,3 +91,8 @@ Soft Matter __12__, 2016
 __[1] The role of shear in crystallization kinetics: From suppression to enhancement__
 **D. Richard** and T. Speck,
 Scientific reports __5__, 2015
+
+
+<br/><img src="/images/cover_gel-min.png" width="100" height="200">
+
+
