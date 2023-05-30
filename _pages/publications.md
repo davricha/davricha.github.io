@@ -33,7 +33,7 @@ G. Kapteijns, **D. Richard**, E. Bouchbinder, T.B. Schrøder, J.C. Dyre, and E. 
 The Journal of Chemical Physics __155__, 2021
 
 __[15] Brittle to ductile transitions in glasses: Roles of soft defects and loading geometry__
-D Richard, E Lerner, E Bouchbinder
+**D. Richard**, E. Lerner, E. Bouchbinder
 MRS Bulletin __46__, 2021
 
 __[14] Elastic moduli fluctuations predict wave attenuation rates in glasses__
@@ -77,7 +77,7 @@ A. Härtel, **D. Richard**, and T. Speck
 Physical Review E __97__, 2018
 
 __[4] Coupling between criticality and gelation in “sticky” spheres: A structural analysis__
-D. Richard, J. Hallett, T. Speck, and C.P. Royall
+**D. Richard**, J. Hallett, T. Speck, and C.P. Royall
 Soft Matter __14__, 2018
 
 __[3] Entropic interactions between two knots on a semiflexible polymer__  
