@@ -73,6 +73,6 @@ __[1] The role of shear in crystallization kinetics: From suppression to enhance
 
 
 <br/>
-<kbd> <img src="/images/cover_abp-min.png" width="200" height="300"></kbd><img src="/images/cover_gel-min.png" width="200" height="300">
+<kbd> <img src="/images/cover_abp-min.png" width="200" height="300"><img src="/images/cover_gel-min.png" width="200" height="300"></kbd>
 
 
