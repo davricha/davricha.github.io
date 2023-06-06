@@ -10,8 +10,9 @@ Here is a link to my [Google Scholar profile](https://scholar.google.com/citatio
 
 <br/>
 <kbd> <img src="/images/cover_abp-min.png" width="200" height="300"><img src="/images/cover_gel-min.png" width="200" height="300"></kbd>
-
 <br/>
+<br/>
+
 __[21] Detecting low-energy quasilocalized excitations in computer glasses__<br/>
 **D. Richard**, G. Kapteijns, and E. Lerner, arXiv:2303.12887, 2023
 
