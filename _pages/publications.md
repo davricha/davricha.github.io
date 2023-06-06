@@ -8,6 +8,10 @@ author_profile: true
 Here is a link to my [Google Scholar profile](https://scholar.google.com/citations?user=jEhfz8kAAAAJ&hl=fr&oi=ao)
 
 
+<br/>
+<kbd> <img src="/images/cover_abp-min.png" width="200" height="300"><img src="/images/cover_gel-min.png" width="200" height="300"></kbd>
+
+
 __[21] Detecting low-energy quasilocalized excitations in computer glasses__<br/>
 **D. Richard**, G. Kapteijns, and E. Lerner, arXiv:2303.12887, 2023
 
@@ -71,8 +75,5 @@ __[2] Nucleation pathway and kinetics of phase-separating active Brownian partic
 __[1] The role of shear in crystallization kinetics: From suppression to enhancement__<br/>
 **D. Richard** and T. Speck, Scientific reports __5__, 2015
 
-
-<br/>
-<kbd> <img src="/images/cover_abp-min.png" width="200" height="300"><img src="/images/cover_gel-min.png" width="200" height="300"></kbd>
 
 
