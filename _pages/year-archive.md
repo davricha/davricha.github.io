@@ -15,9 +15,9 @@ author_profile: true
 
 
 
-**Local yield stress prior shear banding**
+**Local yield stress after shear banding**
 <br/>
 <figure>
   <img src="/images/strain_expansion-min.png" width="400" height="400">
-  <figcaption> Local yield stress map extracted from an analytical non-linear strain expansion inside spherical cavities that are deformed within a rigid matrix. Blue spots mark soft regions with a small stress activation.</figcaption>
+  <figcaption>Local yield stress map extracted from an analytical nonlinear strain expansion inside spherical cavities that are deformed within a rigid matrix. Blue spots correspond to small stress activations marking the presence of permanent localization.</figcaption>
 </figure>
