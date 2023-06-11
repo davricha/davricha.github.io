@@ -19,8 +19,7 @@ author_profile: true
 <br/>
 <figure>
   <img src="/images/strain_expansion-min.png" width="300" height="300">
-  <figcaption>
-Local product between the first and second derivative of the potential energy with respect to the strain of a simple shear deformation. Blue and red regions will destabilize and stabilize, respectively.</figcaption>
+  <figcaption>Local product between the first and second derivative of the potential energy with respect to the strain of a simple shear deformation. Blue and red regions will destabilize and stabilize, respectively.</figcaption>
 </figure>
 
 
