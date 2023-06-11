@@ -5,6 +5,13 @@ permalink: /year-archive/
 author_profile: true
 ---
 
+
+**Title**
+<img style="float: right;" src="/images/micromeca_non_linear_modes-min.png" width="300" height="300">
+Continue markdown text...
+
+
+
 **Micromechanics of non-linear modes**
 <br/>
 <img src="/images/micromeca_non_linear_modes-min.png" width="300" height="300">
