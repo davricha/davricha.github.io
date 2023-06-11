@@ -19,7 +19,7 @@ author_profile: true
 <br/>
 <figure>
   <img src="/images/strain_expansion-min.png" width="300" height="300">
-  <figcaption>Local product between the first and second derivative of the potential energy with respect to the strain of a simple shear deformation. Blue and red regions will destabilize and stabilize, respectively.</figcaption>
+  <figcaption>Local yield stress map extracted from an analytical nonlinear strain expansion inside spherical cavities that are deformed within a rigid matrix. Blue spots correspond to small stress activations marking the presence of permanent localization.</figcaption>
 </figure>
 
 
@@ -29,5 +29,5 @@ author_profile: true
 <br/>
 <figure>
   <img src="/images/pairwise_product-min.png" width="300" height="300">
-  <figcaption>Local product between the first and second derivative of the potential energy of a particle. Upon a simple shear deformation, blue and red regions will destabilize and stabilize, respectively.</figcaption>
+  <figcaption>Local product between the first and second derivative of the potential energy with respect to the strain of a simple shear deformation. Blue and red regions will destabilize and stabilize, respectively.</figcaption>
 </figure>
