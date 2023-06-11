@@ -25,7 +25,7 @@ author_profile: true
 
 
 
-**Tensorial plastic indicators**
+**Tensorial plastic indicator**
 <br/>
 <figure>
   <img src="/images/pairwise_product-min.png" width="300" height="300">
