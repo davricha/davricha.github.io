@@ -13,6 +13,6 @@ I am an independent Marie Sklodowska-Curie fellow working at the “Laboratoire 
 
 
 <br/>
-<kbd> <img src="/images/overview.png" width="600" height="300"></kbd>
+<img src="/images/overview.png" width="600" height="300">
 <br/>
-<br/>
+
