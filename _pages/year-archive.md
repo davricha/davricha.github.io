@@ -20,6 +20,6 @@ Local yield stress map extracted from an analytical nonlinear strain expansion i
 **Tensorial plastic indicator**
 <br/>
 <img src="/images/pairwise_product-min.png" width="300" height="300" align="left" width="200px"/>
-Local product between the first and second derivative of the potential energy with respect to the strain of a simple shear deformation. Blue and red regions will destabilize and stabilize, respectively.
+Local product between the first and second derivative of the potential energy with respect to the strain for a simple shear deformation. Blue and red regions will destabilize and stabilize, respectively.
 <br clear="left"/>
 
