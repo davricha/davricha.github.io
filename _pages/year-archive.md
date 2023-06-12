@@ -13,6 +13,12 @@ author_profile: true
 
 
 
+<h3>Example of small image</h3>
+<figure class="figure">
+  <img src="/images/micromeca_non_linear_modes-min.png" width="400" height="400" alt="">
+  <figcaption class="figcaption">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</figcaption>
+</figure>
+
 
 <!-- **Local yield stress after shear banding**
 <br/>
