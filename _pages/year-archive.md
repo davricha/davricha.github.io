@@ -8,7 +8,7 @@ author_profile: true
 **Micromechanics of non-linear modes**
 <br/>
 <img src="/images/micromeca_non_linear_modes-min.png" width="400" height="400" align="left"/>
-<div style=width=200px" > The micromechanics of non-linear modes (orange displacement field) allows one to measure the coupling between soft spots in structural glasses and predict the sequence of plastic instabilities prior to the nucleation of a shear band (blue cumulative plastic deformation). </div>
+<div style="width:50px;height:50px;background color:red"> The micromechanics of non-linear modes (orange displacement field) allows one to measure the coupling between soft spots in structural glasses and predict the sequence of plastic instabilities prior to the nucleation of a shear band (blue cumulative plastic deformation). </div>
 <br clear="left"/>
 
 **Local yield stress after shear banding**
