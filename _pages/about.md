@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an independent Marie Sklodowska-Curie fellow working at the “Laboratoire Interdisciplinaire de Physique” in Grenoble (France). My research focuses on the statistical mechanics of systems out of equilibrium, including <span style="color:blue">some *blue* text</span> phase transitions, elasticity, plasticity, and failure in amorphous materials. My research is heavily based on developing and using advanced numerical methods.
+I am an independent Marie Sklodowska-Curie fellow working at the “Laboratoire Interdisciplinaire de Physique” in Grenoble (France). My research focuses on the statistical mechanics of systems out of equilibrium, including $`\textcolor{red}{\text{your text}}`$  phase transitions, elasticity, plasticity, and failure in amorphous materials. My research is heavily based on developing and using advanced numerical methods.
 
 <br/>
 <img src="/images/overview-min.png" width="994" height="271">
