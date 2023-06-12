@@ -6,17 +6,17 @@ author_profile: true
 ---
 
 
-<!-- **Micromechanics of non-linear modes** -->
+**Micromechanics of non-linear modes**
 <br/>
-<img src="/images/micromeca_non_linear_modes-min.png" title="**Micromechanics of non-linear modes**" width="400" height="400" align="left"/>
+<img src="/images/micromeca_non_linear_modes-min.png" width="400" height="400" align="left"/>
 <em> The micromechanics of non-linear modes (orange displacement field) allows one to measure the coupling between soft spots in structural glasses and predict the sequence of plastic instabilities prior to the nucleation of a shear band (blue cumulative plastic deformation).</em>
 <br clear="left"/>
 
 **Local yield stress after shear banding**
 <br/>
-<img src="/images/strain_expansion-min.png" width="400" height="400" align="right"/>
+<img src="/images/strain_expansion-min.png" width="400" height="400" align="left"/>
 <em>Local yield stress map extracted from an analytical nonlinear strain expansion inside spherical cavities that are deformed within a rigid matrix. Blue spots correspond to small stress activations marking the presence of permanent localization.</em>
-<br clear="right"/>
+<br clear="left"/>
 
 **Tensorial plastic indicator**
 <br/>
