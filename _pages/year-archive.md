@@ -6,19 +6,6 @@ author_profile: true
 ---
 
 
-.container {
-  display: inline-block;
-}
-
-.no-expand {
-  box-sizing: border-box;
-  width: 0px;
-  min-width: 100%;
-  
-  background: pink;
-  padding: 10px;
-}
-
 <!-- **Micromechanics of non-linear modes**
 <br/>
 <img src="/images/micromeca_non_linear_modes-min.png" width="400" height="400" align="left"/>
