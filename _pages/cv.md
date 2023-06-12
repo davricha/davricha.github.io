@@ -15,7 +15,7 @@ Contact Information
 Laboratoire interdisciplinaire de physique <br />
 140 Rue de la Physique, <br />
 38402 Saint-Martin-d'Hères, France <br />
-e-mail: david.richard@univ-grenoble-alpes.fr <br />
+e-mail: david.richard AT univ-grenoble-alpes.fr <br />
 
 Professional experience
 ======
