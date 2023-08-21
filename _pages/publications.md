@@ -73,7 +73,7 @@ __Entropic interactions between two knots on a semiflexible polymer__<br/>
 __Nucleation pathway and kinetics of phase-separating active Brownian particles__<br/>
 **D. Richard**, H. Löwen, and T. Speck, Soft Matter __12__, 2016
 
-__The role of shear in crystallization kinetics: From suppression to enhancement__<br/>
+__[1]The role of shear in crystallization kinetics: From suppression to enhancement__<br/>
 **D. Richard** and T. Speck, Scientific reports __5__, 2015
 
 
