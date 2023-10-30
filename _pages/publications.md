@@ -13,8 +13,9 @@ Here is a link to my [Google Scholar profile](https://scholar.google.com/citatio
 <br/>
 <br/>
 
+
 __[21] Detecting low-energy quasilocalized excitations in computer glasses__<br/>
-**D. Richard**, G. Kapteijns, and E. Lerner, arXiv:2303.12887, 2023
+**D. Richard**, G. Kapteijns, and E. Lerner, Physical Review E __108__, 2023
 
 __[20] Bridging necking and shear-banding mediated tensile failure in glasses__<br/>
 **D. Richard**, E.T. Lund, J. Schroers, and E. Bouchbinder, Physical Review Materials __7__, 2023
