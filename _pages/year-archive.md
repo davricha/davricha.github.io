@@ -5,6 +5,11 @@ permalink: /year-archive/
 author_profile: true
 ---
 
+**Mechanical heterogeneity in colloidal gels**
+<br/>
+<img src="/images/gel_length_scale.png" width="400" height="400" align="left"/>
+<em> Divergence of the length scale of mechanical heterogeneity in colloidal gels approaching the rigidity transition. A dense (top) and dilute (bottom) gel configurations are shown on the left. Linear responses to local strain are shown on the right.</em>
+<br clear="left"/>
 
 **Micromechanics of non-linear modes**
 <br/>
