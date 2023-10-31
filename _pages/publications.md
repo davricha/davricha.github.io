@@ -14,6 +14,10 @@ Here is a link to my [Google Scholar profile](https://scholar.google.com/citatio
 <br/>
 
 
+
+__[22] DNon-linear micromechanics of simple computer glasses: a connection with elasto-plastic models__<br/>
+**D. Richard**, submitted, 2023
+
 __[21] Detecting low-energy quasilocalized excitations in computer glasses__<br/>
 **D. Richard**, G. Kapteijns, and E. Lerner, Physical Review E __108__, 2023
 
