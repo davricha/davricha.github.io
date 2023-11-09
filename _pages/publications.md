@@ -13,14 +13,6 @@ Here is a link to my [Google Scholar profile](https://scholar.google.com/citatio
 <br/>
 <br/>
 
-__[24] Origins of the elasticity in colloidal gels__<br/>
-**D. Richard** and M. Bouzid, submitted, 2023
-
-__[23] Non-linear micromechanics of simple computer glasses: a connection with elasto-plastic models__<br/>
-**D. Richard**, submitted, 2023
-
-__[22] Elementary processes in dilatational plasticity of glasses__<br/>
-A. Moriel, **D. Richard**, E. Lerner, and E. Bouchbinder, submitted, 2023
 
 __[21] Detecting low-energy quasilocalized excitations in computer glasses__<br/>
 **D. Richard**, G. Kapteijns, and E. Lerner, Physical Review E __108__, 2023
