@@ -20,13 +20,13 @@ author_profile: true
 
 <br/>
 <img src="/images/strain_expansion-min.png" width="400" height="400" align="left"/>
-<em> <h1>Local yield stress after shear banding</h1> Local yield stress map extracted from an analytical nonlinear strain expansion of the stress inside spherical cavities that are embedded in a affinely deformed rigid matrix. Blue spots correspond to small stress activations, marking the presence of a permanent strain localization.</em>
+<h1>Local yield stress after shear banding</h1> Local yield stress map extracted from an analytical nonlinear strain expansion of the stress inside spherical cavities that are embedded in a affinely deformed rigid matrix. Blue spots correspond to small stress activations, highlighting the presence of a permanent strain localization.
 <br clear="left"/>
 
 
 <br/>
 <img src="/images/pairwise_product-min.png" width="400" height="400" align="left"/>
-<em> <h1>Tensorial plastic indicator</h1>Local product between the first and second derivative of the potential energy with respect to the strain for a simple shear deformation. Blue and red regions will destabilize and stabilize upon loading, respectively.</em>
+<h1>Tensorial plastic indicator</h1>Local product between the first and second derivative of the potential energy with respect to the strain for a simple shear deformation. Blue and red regions will destabilize and stabilize upon loading, respectively. Large Eshelby-like fields mark the presence of soft defects.
 <br clear="left"/>
 
 
