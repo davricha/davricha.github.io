@@ -26,7 +26,7 @@ author_profile: true
 
 <br/>
 <img src="/images/pairwise_product-min.png" width="400" height="400" align="left"/>
-<h1>Tensorial plastic indicator</h1>Local product between the first and second derivative of the potential energy with respect to the strain for a simple shear deformation. Blue and red regions will destabilize and stabilize upon loading, respectively. Large Eshelby-like fields mark the presence of soft defects.
+<h1>Tensorial plastic indicator</h1> Local product between the first and second derivative of the potential energy with respect to the strain for a simple shear deformation. Blue and red regions will destabilize and stabilize upon loading, respectively. Large Eshelby-like fields mark the presence of soft defects.
 <br clear="left"/>
 
 
