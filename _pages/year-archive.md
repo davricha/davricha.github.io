@@ -8,13 +8,13 @@ author_profile: true
 
 <br/>
 <img src="/images/gel_length_scale.png" width="400" height="400" align="left"/>
-<h1>Mechanical heterogeneities in colloidal gels:</h1> Growing mechanical heterogeneity in colloidal gels approaching the rigidity transition. A dense (blue) and dilute (orange) gel configurations and linear responses to local strain are shown on the left and right, respectively.
+<h1>Mechanical heterogeneities in colloidal gels</h1> Growing mechanical heterogeneity in colloidal gels approaching the rigidity transition. A dense (blue) and dilute (orange) gel configurations and linear responses to local strain are shown on the left and right, respectively.
 <br clear="left"/>
 
-**Micromechanics of non-linear modes**
+
 <br/>
 <img src="/images/micromeca_non_linear_modes-min.png" width="400" height="400" align="left"/>
-<em> The micromechanics of non-linear modes (orange displacement field) allows one to measure the coupling between soft spots in structural glasses and predict the sequence of plastic instabilities prior to the nucleation of a shear band (blue cumulative plastic deformation).</em>
+<em> <h1>**Micromechanics of non-linear modes</h1> The micromechanics of non-linear modes (orange displacement field) allows one to measure the coupling between soft spots in structural glasses and predict the sequence of plastic instabilities prior to the nucleation of a shear band (blue cumulative plastic deformation).</em>
 <br clear="left"/>
 
 **Local yield stress after shear banding**
