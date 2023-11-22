@@ -8,7 +8,7 @@ author_profile: true
 
 <br/>
 <img src="/images/gel_length_scale.png" width="400" height="400" align="left"/>
-__Mechanical heterogeneities in colloidal gels:__ Growing mechanical heterogeneity in colloidal gels approaching the rigidity transition. A dense (blue) and dilute (orange) gel configurations and linear responses to local strain are shown on the left and right, respectively.
+<h1>Mechanical heterogeneities in colloidal gels:</h1> Growing mechanical heterogeneity in colloidal gels approaching the rigidity transition. A dense (blue) and dilute (orange) gel configurations and linear responses to local strain are shown on the left and right, respectively.
 <br clear="left"/>
 
 **Micromechanics of non-linear modes**
