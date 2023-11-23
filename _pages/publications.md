@@ -5,8 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-Here is a link to my [Google Scholar profile](https://scholar.google.com/citations?user=jEhfz8kAAAAJ&hl=fr&oi=ao)
-
 
 <br/>
 <kbd> <img src="/images/cover_abp-min.png" width="200" height="300"><img src="/images/cover_gel-min.png" width="200" height="300"></kbd>
