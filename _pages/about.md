@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-My research focuses on the statistical mechanics of systems in and out of equilibrium, including phase transitions, elasticity, plasticity, and failure in disordered solids such as glasses and gels. My research is heavily based on developing and using advanced numerical methods.
+
+I am a postdoctoral researcher at the interface between physics and mechanics with a focus on systems out of equilibrium. My research includes the modeling of phase transitions in driven systems, and understanding the role of structural disorder on the elasticity, plasticity, and failure of amorphous solids such as glasses and gels. My work is heavily based on developing advanced numerical methods, in close collaboration with experimentalists.
+
 
 
 <br/>
