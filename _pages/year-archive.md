@@ -8,7 +8,7 @@ author_profile: true
 
 <br/>
 <img src="/images/gel_length_scale.png" width="400" height="400" align="left"/>
-<h1>Mechanical heterogeneities in colloidal gels</h1> Growing mechanical heterogeneity in colloidal gels approaching the rigidity transition. A dense (blue) and dilute (orange) gel configurations and linear responses to local strain are shown on the left and right, respectively.
+<h1>Mechanical heterogeneities in colloidal gels</h1> Growing mechanical heterogeneity in colloidal gels approaching the rigidity transition. Snapshots of a dense (blue) and dilute (orange) gel are on the left. Displacement fields correspond to the linear response of a local strain applied on the gel backbone.
 <br clear="left"/>
 
 
@@ -20,7 +20,7 @@ author_profile: true
 
 <br/>
 <img src="/images/strain_expansion-min.png" width="400" height="400" align="left"/>
-<h1>Local yield stress after shear banding</h1> Local yield stress map extracted from an analytical nonlinear strain expansion of the stress inside spherical cavities that are embedded in a affinely deformed rigid matrix. Blue spots correspond to small stress activations, highlighting the presence of a permanent strain localization.
+<h1>Local yield stress after shear banding</h1> Local yield stress map extracted from an analytical nonlinear strain expansion of the stress inside spherical cavities that are embedded in a affinely deformed frozen matrix. Blue spots correspond to small stress activations, highlighting the presence of a permanent strain localization.
 <br clear="left"/>
 
 
