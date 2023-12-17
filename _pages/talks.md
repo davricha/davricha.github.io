@@ -20,6 +20,7 @@ __Invited talks__<br/>
 
 __Contributed talks & seminars__<br/>
 
+- Seminar Laboratoire NAVIER - "Measuring mechanical disorder in amorphous solids: from glasses to gels", Paris, France, 2023
 - STATPHYS28 — “Bridging necking and shear-banding mediated tensile failure in glasses”, Tokyo, Japan, 2023
 - Workshop Defects in disordered systems, discussant “Two-level systems in structural glasses”, Pennsylvania, USA, 2022
 - Winter School on Driven Amorphous Materials, “Bridging necking and shear-banding mediated tensile failure in glasses”, Rehovot, Israel, 2022
