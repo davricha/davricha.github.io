@@ -19,6 +19,7 @@ __Invited talks__<br/>
 
 
 __Contributed talks & seminars__<br/>
+- Network Dynamics - "Measuring elastic heterogeneities in colloidal gels", Les Houches, France, 2024
 - Seminar Laboratoire NAVIER - "Measuring mechanical disorder in amorphous solids: from glasses to gels", Paris, France, 2023
 - STATPHYS28 — “Bridging necking and shear-banding mediated tensile failure in glasses”, Tokyo, Japan, 2023
 - Workshop Defects in disordered systems, discussant “Two-level systems in structural glasses”, Pennsylvania, USA, 2022
