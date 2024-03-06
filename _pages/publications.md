@@ -12,7 +12,7 @@ author_profile: true
 <br/>
 
 __[22] Connecting microscopic and mesoscopic mechanics in model structural glasses__<br/>
-**D. Richard**, submitted, arXiv __2311.09917__ , The Journal of Chemical Physics __160__, 2024
+**D. Richard**, The Journal of Chemical Physics __160__, 2024
 
 __[21] Detecting low-energy quasilocalized excitations in computer glasses__<br/>
 **D. Richard**, G. Kapteijns, and E. Lerner, Physical Review E __108__, 2023
