@@ -11,6 +11,9 @@ author_profile: true
 <br/>
 <br/>
 
+__[23] Elementary processes in dilatational plasticity of glasses__<br/>
+A. Moriel, **D. Richard**, E. Lerner, and E. Bouchbinder, Physical Review Research __6__, 2024
+
 __[22] Connecting microscopic and mesoscopic mechanics in model structural glasses__<br/>
 **D. Richard**, The Journal of Chemical Physics __160__, 2024
 
