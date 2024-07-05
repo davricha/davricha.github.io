@@ -19,6 +19,7 @@ __Invited talks__<br/>
 
 
 __Contributed talks & seminars__<br/>
+- Seminar Leibniz-Institut für Polymerforschung - "Connecting microscopic and mesoscopic mechanics in model structural glasses", Dresden, Germany, 2024
 - GDR IDE Webinar - "Elastic heterogeneities in colloidal gels", France, 2024
 - Network Dynamics - "Measuring elastic heterogeneities in colloidal gels", Les Houches, France, 2024
 - Seminar Laboratoire NAVIER - "Measuring mechanical disorder in amorphous solids: from glasses to gels", Paris, France, 2023
