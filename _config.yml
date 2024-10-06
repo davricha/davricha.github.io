@@ -84,10 +84,10 @@ author:
   avatar           : "profile_pic2.png"
   bio              : 
   location         : "PMMH - ESPCI"
-  employer         :
+  employer         : "david.richard.at.espci.fr"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=jEhfz8kAAAAJ&hl=fr&oi=ao"
-  email            : "david.richard.at.espci.fr"
+  email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
