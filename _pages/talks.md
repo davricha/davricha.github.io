@@ -7,6 +7,7 @@ author_profile: true
 
 
 __Invited talks__<br/>
+- DIM MaTerRE — “Modelling the gelation and elasticity of adhesive suspensions”, Paris, France, 2025
 - CIMTEC — “A mapping between the non-linear micromechanics of glasses and elasto-plastic models”, Montecatini Terme, Italy, 2024
 - 9IDMCRS — “Bridging necking and shear-banding mediated tensile failure in glasses”, Chiba, Japan, 2023
 - CECAM: Mesoscale modelling of driven disordered materials: from glasses to active matter — “A mapping between the micromechanics of glasses and elasto-plastic models”, Lausanne, Switzerland, 2023
