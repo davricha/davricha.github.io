@@ -11,6 +11,9 @@ author_profile: true
 <br/>
 <br/>
 
+__[24] How rigidity percolation and bending stiffness shape colloidal gel elasticity__<br/>
+**D. Richard** and M. Bouzid, arXiv:2504.19568, 2025
+
 __[23] Elementary processes in dilatational plasticity of glasses__<br/>
 A. Moriel, **D. Richard**, E. Lerner, and E. Bouchbinder, Physical Review Research __6__, 2024
 
