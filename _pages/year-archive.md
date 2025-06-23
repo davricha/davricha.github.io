@@ -8,7 +8,7 @@ author_profile: true
 
 <br/>
 <img src="/images/gel_length_scale.png" width="400" height="400" align="left"/>
-<h1>Mechanical heterogeneities in colloidal gels</h1> Growing mechanical heterogeneity in colloidal gels approaching the rigidity transition. Snapshots of a dense (blue) and dilute (orange) gel are on the left. Displacement fields correspond to the linear response of a local strain applied on the gel backbone.
+<h1>Mechanical heterogeneities in colloidal gels</h1> Colloidal gels originate from solid objects with adhesive properties that are embedded in a fluid and self-assemble into a delicate percolating network. It is rather cumbersome to characterise the mechanical heterogeneities in these soft solids. Here, we demonstrate how to use both random walks and the linear response to dipole forces to investigate a critical length scale that diverges close to the rigidity percolation point. The displacement field associated with the local strain applied to the gel backbone highlights the growing heterogeneities close to the transition.
 <br clear="left"/>
 
 
